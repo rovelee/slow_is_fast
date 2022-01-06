@@ -9,10 +9,6 @@ On the Contrary，fast led to misses, misses led to restart. It means more expen
 
 相反的是，当你急于某件事时，就会产生失误，这些失误和挫折导致你不得不重新开始或者放弃。因此你需要花费更多的时间。
 
-More haste, less speed.
-
-欲速则不达。
-
 ## 目录
 
 [Be slow&patient](Jan.01.md)
