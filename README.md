@@ -15,4 +15,4 @@ More haste, less speed.
 
 ## 目录
 
-[Be slow&patient](CHAPTER.01.md)
+[Be slow&patient](Jan.01.md)
