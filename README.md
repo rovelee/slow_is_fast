@@ -11,4 +11,5 @@ On the Contrary，fast led to misses, misses led to restart. It means more expen
 
 ## 目录
 
-[Be slow&patient](Jan.01.md)
+[Be Slow Down](Jan.01.md)
+[How to Solve Problem](Jan.02.md)
